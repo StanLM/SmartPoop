@@ -17,7 +17,7 @@ Notez que, contrairement à d'autres domaines scientifiques, les conférences ac
 L'auteur de la thèse se doit généralement d'ajouter un résumé, une introduction générale, et une conclusion.
 Selon les universités, les exigences pour voir sa thèse acceptée varient.
 
-Plus tard dans la soirée, après avoir feint d'apprécier la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l'humanité. Sa recherche se contente jusqu'à présent d'améliorer les performances d'algorithmes déjà existants[^performance-securite]. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux[^application-des-ia] et l'optimisation de la publicité ciblée sur ces plateformes[^publicite-hoang]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
+Plus tard dans la soirée, après avoir feint d'apprécier la blague de son colocataire, Katia lui partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l'humanité. Ses recherches sont contentées jusqu'à présent d'améliorer les performances d'algorithmes déjà existants[^performance-securite]. Cependant, elle est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux[^application-des-ia] et l'optimisation de la publicité ciblée sur ces plateformes[^publicite-hoang]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
 
 [^performance-securite]: Beaucoup considèrent ainsi que, si le progrès technologique améliore grandement la qualité de vies du plus grand nombre, il diminue aussi drastiquement le coût de causer une catastrophe monumentale.
 Si l'on accepte ce postulat, toute recherche sur la performance des algorithmes peut être vue comme la création potentielle de risques nouveaux et mal maîtrisés, et est en cela dangereuse.
@@ -45,12 +45,12 @@ Or les tâches sont de plus en plus complexes, comme détecter des incitations �
 
 Marc, encore étudiant en cancérologie, suggère alors l'utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chances d'être traité avec succès, et avec moins de risques de complications.
 
-> Ça commence à se faire en plus, précise Marc. L'année dernière des chercheurs américains ont montré qu'une IA était aussi douée qu'une équipe de dermatologues pour détecter des cancers de la peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière trop tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
+> Ça commence à se faire en plus, précise Marc. L'année dernière des chercheurs américains ont montré qu'une IA était aussi douée qu'une équipe de dermatologues pour détecter des cancers de la peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière trop tardive a un stade ou des soins risqués et coûteux sont nécessaires et pas toujours si efficace.
 
 [^cancer-de-la-peau]: [**Vidéo.**  L'IA sauvera des vies (ft. Primum Non Nocere). Science4All (2018).](https://www.youtube.com/watch?v=xU7LcNRkmfU&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=33)  
 [**Science.**  Dermatologist-level classification of skin cancer with deep neural networks. Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9)
 
-> Il y a clairement un besoin d'algorithmes d'apprentissage en médecine. Mais si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données[^data], fait remarquer Katia.
+> Certe il y a clairement un besoin d'algorithmes d'apprentissage en médecine. Mais si l'on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données[^data], fait remarquer Katia.
 
 [^data]: La problématique des données d'entrée est vraiment critique en machine learning, puisque les algorithmes sont systématiquement conçus pour apprendre des données et pour généraliser à partir des données.
 
@@ -109,7 +109,7 @@ Pendant ce temps, Marc s'informe sur la coprologie. Il télécharge des bases de
 
 > Je vois... et du coup quand le foie ne fonctionne pas on devient marron ?
 
-> Presque. Jaune plutôt. C'est ce qu'on appelle l'ictère. Ou « jaunisse » si tu préfères, et les selles deviennent blanchâtres. Mais vois-tu…
+> Presque. Jaune plutôt. C'est ce qu'on appelle l'ictère. Ou « jaunisse » si tu préfères, et les selles, elles, deviennent blanchâtres. Mais vois-tu…
 
 Katia n'écoutait déjà plus, réfléchissant au type d'analyse colorimétrique qu'elle pourrait intégrer à leurs algorithmes. « SmartPoop, ça va être trop cool[^cool] », se dit-elle intérieurement.
 
@@ -213,7 +213,7 @@ Katia fait alors le lien avec un appel d'offres qu'elle a vu passer à son trava
 
 Marc passe alors ses journées à contacter tous les collègues dans son carnet d'adresse, puis tous les médecins qu'il connaît sur Facebook, puis tous les médecins qu'il trouve sur Twitter, pour les supplier de photographier les déjections des malades dans les hôpitaux. La plupart ne répondent pas[^donnees-hopitaux]. Certains rétorquent avec des insultes. « Vous avez déjà été dans un hôpital ? On est déjà débordé pour sauver des vies. On n'est pas là pour alimenter un compte Instagram de merdes », commentent les plus agressifs. « Ils abusent… On ne peut mettre aucun filtre, et tu ne peux pas en faire de story », ironise Marc.
 
-[^donnees-hopitaux]: La problématique des données des hôpitaux est en fait horriblement plus complexe, notamment à cause de considérations de protection des données sensibles des patients. L'infrastructure informatique des hôpitaux est d'ailleurs souvent soumise à des attaques de hackers malveillants, qui exploitent souvent le manque d'investissement dans la sécurité de cette infrastructure pour paralyser des services et exiger des rançons. Dans le cadre du roman, toutefois, on peut imaginer que la situation sanitaire est peut-être là suffisamment catastrophique pour justifier (éthiquement) des collaborations (illégales) avec SmartPoop.
+[^donnees-hopitaux]: La problématique des données de patients hospitalisé est en fait beaucoup plus complexe, notamment à cause de considérations de protection des données sensibles des patients. L'infrastructure informatique des hôpitaux est d'ailleurs souvent soumise à des attaques de hackers malveillants, qui exploitent souvent le manque d'investissement dans la sécurité de cette infrastructure pour paralyser des services et exiger des rançons. Dans le cadre du roman, toutefois, on peut imaginer que la situation sanitaire est peut-être là suffisamment catastrophique pour justifier (éthiquement) des collaborations (illégales) avec SmartPoop.
 
 Katia adapte alors le site web SmartPoop.com pour appeler les médecins, mais aussi le grand public à contribuer. Elle y demande aux visiteurs d'utiliser SmartPoop pour prendre des photos de leurs excréments, et de renseigner sur la plateforme leur état de santé jour après jour. Elle supplie également les médecins d'encourager leurs patients à utiliser SmartPoop.
 
@@ -241,9 +241,9 @@ En mai 2020, alors que les nombres de cas diminuent lentement, mais demeurent en
 [**Vidéo.**  Jugez le pari. Pas le résultat. Science4All (2020).](https://www.youtube.com/watch?v=69w3mZOHEtU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=25)  
 [**Livre.**  Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts. Penguin. Annie Duke (2019).](https://www.penguinrandomhouse.com/books/552885/thinking-in-bets-by-annie-duke/)
 
-Déçu, Marc reconnaît que les confinements vont probablement s'éterniser, probablement pendant des années, le temps qu'un vaccin efficace soit développé, testé et déployé à très grande échelle — si tant est qu'il voit le jour un jour[^vaccin]. Pendant ce temps, le ROVID-19 ne cessera de se diffuser.
+Déçu, Marc reconnaît que les confinements vont probablement s'éterniser, probablement pendant des mois ou des années, le temps qu'un vaccin efficace soit développé, testé et déployé à très grande échelle — si tant est qu'il voit le jour un jour[^vaccin]. Pendant ce temps, le ROVID-19 ne cessera de se diffuser.
 
-[^vaccin]: Il est intéressant de se rappeler qu'au début de la pandémie COVID-19, il n'était pas clair que les vaccins auraient l'efficacité qu'ils ont finalement eue. Et il est aussi bon de rappeler que certains vaccins ont permis d'éradiquer certaines maladies terribles, comme la variole.  
+[^vaccin]: Il est intéressant de se rappeler qu'au début de la pandémie COVID-19, il n'était pas clair que les vaccins auraient l'efficacité qu'ils ont finalement eue. Et il est aussi bon de rappeler que certains vaccins ont rendu possible la quasi éradication de certaines maladies terribles voir une éradication totale comme dans le cas de la variole.  
 [**Vidéo.**  Le plus grand triomphe de l'humanité. Science4All (2020).](https://www.youtube.com/watch?v=eAzP2QtAAag&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=9)
 
 En entendant ces mots, Katia se lève, agitant son index droit qui illustre alors le bouillonnement intellectuel qui anime ses neurones.
