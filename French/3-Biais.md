@@ -121,7 +121,7 @@ Il semble en effet souvent être le cas que ces buts sont des *croyances orpheli
 [**Vidéo.** Your brain is not a Bayes net (and why that matters). Julia Galef (2016).](https://www.youtube.com/watch?v=cFv5DvrLDCg)  
 [**Vidéo.**  La croyance orpheline d'Einstein. Science4All (2019).](https://www.youtube.com/watch?v=3jtKDWJsvEo&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=22)
 
-Dr. Marta revient alors vers Issa. « Enfin », s'exclame intérieurement Issa, qui a l'impression d'avoir été abandonné depuis plusieurs heures. Pourtant, cela ne fait que dix minutes que Dr. Marta s'était absentée[^temps-subjectif]. Elle demande alors à Issa de l'accompagner pour passer une radiologie, et lui annonce qu'une coloscopie est aussi envisagée. En l'espace de quelques heures, Issa subira en fait toutes sortes d'analyses. En fin de journée, Dr. Marta lui dit qu'il restera en observation pendant la nuit. Elle l'encourage à essayer de manger le repas qui lui est servi, et à essayer de trouver le sommeil pour se reposer.
+Dr. Marta revient alors vers Issa. « Enfin », s'exclame intérieurement Issa, qui a l'impression d'avoir été abandonné depuis plusieurs heures. Pourtant, cela ne fait que dix minutes que Dr. Marta s'était absentée[^temps-subjectif]. Elle demande alors à Issa de l'accompagner pour passer un scanner abdominal, et lui annonce qu'une coloscopie est aussi envisagée. En l'espace de quelques heures, Issa subira en fait toutes sortes d'analyses. En fin de journée, Dr. Marta lui dit qu'il restera en observation pendant la nuit. Elle l'encourage à essayer de manger le repas qui lui est servi, et à essayer de trouver le sommeil pour se reposer.
 
 [^temps-subjectif]: [**Vidéo.**  How Your Brain Makes Time Pass Fast or Slow. It's Okay To Be Smart (2020).](https://www.youtube.com/watch?v=NSy0Z7XCF3E)
 
@@ -129,7 +129,7 @@ Le lendemain matin, Dr. Marta arrive enfin dans la chambre d'Issa. Issa est épu
 
 > Quelles sont les nouvelles, docteure ?
 
-> Vous avez clairement une fatigue très avancée et un haut niveau de stress, avec visiblement des troubles digestifs et des troubles du sommeil. Quelque chose ne va pas. Cependant, toutes nos mesures ne parviennent toujours pas à identifier l'origine de vos troubles. Nous avons appelé l'entreprise SmartPoop, dont le rapport de santé n'est pas vraiment en phase avec notre examen, et ils sont en train d'analyser manuellement vos données. Nous espérons qu'ensemble nous arriverons à cerner le problème. Mais ceci va nous prendre du temps. J'en suis désolée. Vraiment désolée.
+> Vous avez clairement une fatigue très avancée et un haut niveau de stress, avec visiblement des troubles digestifs et des troubles du sommeil. Quelque chose ne va pas. Cependant, toutes nos mesures ne parviennent toujours pas à identifier une origine organique de vos troubles. Nous avons appelé l'entreprise SmartPoop, dont le rapport de santé n'est pas vraiment en phase avec notre examen, et ils sont en train d'analyser manuellement vos données. Nous espérons qu'ensemble nous arriverons à cerner le problème. Mais ceci va nous prendre du temps. J'en suis désolée. Vraiment désolée.
 
 ### Alerte chez SmartPoop
 
@@ -194,7 +194,7 @@ Marc compose le numéro de Dr. Marta.
 
 [^nocebo]: [**Vidéo.**  This Video Will Hurt. CGP Grey (2013).](https://www.youtube.com/watch?v=O2hO4_UEe-4)
 
-> Mais expliquez-moi, demande Dr. Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif, puis en décès. C'est pour ça que j'ai moi-même était paniquée pour Issa — ce qui a sans doute malheureusement contribué à son *nocebo*.
+> Mais expliquez-moi, demande Dr. Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif. C'est pour ça que j'ai moi-même était paniquée pour Issa — ce qui a sans doute malheureusement contribué à son *nocebo*.
 
 > On vient de déployer les SmartToilets et les SmartToilets Deluxe, explique Katia. Je pense que les SmartToilets ont des diagnostics relativement fiables. Mais la version Deluxe a des capteurs encore plus avancés, qui n'ont pas été aussi utilisés que ceux des SmartToilets de base. Et c'est pour cette raison qu'elle n'est pas aussi fiable.
 
@@ -265,7 +265,7 @@ Un article récent affirme que des mesures similaires doivent être urgemment pr
 
 > Les excréments des utilisateurs d'origine africaine ont visiblement des caractéristiques physiologiques différentes.
 
-> Ah oui... Je sais qu'ils ont plus facilement des déficiences en vitamine D, notamment lorsqu'ils vivent dans des régions avec peu de soleil en hiver[^vitamine-D]. Il y a certainement d'autres distinctions majeures, et certaines peuvent tout à fait être visibles via les SmartToilet Deluxe. D'où le fait que SmartPoop se préoccupe de la santé de ces 163 utilisateurs d'origine africaine.
+> Hum.. Je sais qu'ils ont plus facilement des déficiences en vitamine D, notamment lorsqu'ils vivent dans des régions avec peu de soleil en hiver[^vitamine-D]. Il y a certainement d'autres distinctions majeures, et certaines peuvent tout à fait être visibles via les SmartToilet Deluxe. D'où le fait que SmartPoop se préoccupe de la santé de ces 163 utilisateurs d'origine africaine.
 
 [^vitamine-D]: [**Paper**. Vitamin D and African Americans. Susan Harris. The Journal of Nutrition (2006).](https://pubmed.ncbi.nlm.nih.gov/16549493/)
 
